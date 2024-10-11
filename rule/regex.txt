@@ -1,4 +1,4 @@
-# Update time: 2024-10-11 08:42:10
+# Update time: 2024-10-11 20:16:03
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -166,6 +166,36 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+<script>
+            pageOptions
+    xhr.send();
+            } else {
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+};
+                }
+                console.log(JSON.parse(xhr.responseText))
+<style>
+            2024 Copyright.  All Rights Reserved.
+        ];
+    Privacy Policy
+			Buy this domain.
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+}
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -197,8 +227,8 @@ analytics-*.aasaam.com
 ||real*traf.ru^
 ||f-log-*.grammarly.io^
 ||wa.gmx.
-||mon*-*.tiktokv.us^
 ||pxl-*.ozone.ru^
+||mon*-*.tiktokv.us^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
 ||cpng.lol.^
@@ -223,8 +253,8 @@ analytics-*.aasaam.com
 ||report*.appmetrica.webvisor.com^
 ||ad*.tmgrup.com.tr^
 ||goodadvert.
-||rtlog*.tiktokv.com^
 ||flurry.agentportal.*.yahoodns.net^
+||rtlog*.tiktokv.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||stat*.1internet.tv^
 ||rb*.design.ru^
@@ -286,8 +316,8 @@ analytics-*.aasaam.com
 ||tw*.netcore.co.in^
 ||mapi-log.qoo*.jp^
 ||rum*.a.trbcdn.net^
-||xlog*-*.tiktokv.com^
 ||analytics-api.dvdfab.
+||xlog*-*.tiktokv.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||rtlog*.tiktokv.us^
 ||v*-ad.video.yximgs.com^
@@ -326,9 +356,11 @@ analytics-*.aasaam.com
 ||under-click.
 ||log-*.epicdn.me^
 ||metric*.rediff.com^
+||tnc*.zijieapi.com^
 ||tracker.twenga.
 ||cdn*.swaxis.com^
 ||adimg*.search.naver.net^
+||log*.zijieapi.com^
 ||log*.aliyuncs.com^
 ||icq-window.
 ||geoloc*.geovisite.ovh^
@@ -369,6 +401,7 @@ analytics-*.aasaam.com
 ||iad-*.appboy.com^
 ||minitds-*.info^
 ||jtbo*.nqxvevk.cn^
+||polaris*-normal-*.zijieapi.com^
 ||ad.*.doubleclick.net^
 ||snowplow-collector-*.amazonaws.com^
 ||ms*.applvn.com^
@@ -386,8 +419,7 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
+||iad-*.braze.com^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||bj*.9669.cn^
@@ -616,7 +648,6 @@ analytics-*.aasaam.com
 ||aan.amazon.*^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
-||iad-*.braze.com^
 ||collector-*.tvsquared.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
