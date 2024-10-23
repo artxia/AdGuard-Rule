@@ -1,4 +1,4 @@
-# Update time: 2024-10-22 20:16:55
+# Update time: 2024-10-23 08:41:59
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -135,8 +135,8 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 <head>
-<body>
 <!doctype html>
+<body>
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -194,10 +194,6 @@ body {
             }
         return arguments;
 }
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
-||iad-*.braze.com^
-||ifengad.*.ifeng.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -206,8 +202,11 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
+||rgfftupf.
 ||adservice.google.
+||counter*.stat.ovh^
 ||host*.carl-ras.dk^
+||ads.livetv*.me^
 ||allsportsflix.
 ||log*-normal-*.tiktokv.us^
 ||iphone-caviar.ru*entranceId
@@ -318,6 +317,7 @@ analytics-*.aasaam.com
 ||mf*.advantage.as^
 ||query*.petametrics.com^
 ||button.blogs.yandex.
+||fxhpaoxqyajvmdg.
 ||flurry.agentportal-*.yahoodns.net^
 ||host*.rigbyandpeller.com^
 ||tw*.netcore.co.in^
@@ -405,6 +405,7 @@ analytics-*.aasaam.com
 ||log-*.zadn.vn^
 ||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
+||collect-v*.51.la^
 ||q*-publick.club^
 ||logger-*.dailymotion.com^
 ||iad-*.appboy.com^
@@ -423,11 +424,14 @@ analytics-*.aasaam.com
 ||stat.tiara.
 ||quangcao-*.epicdn.me^
 ||rotator.
-||bms*.adjarabet.com^
 ||pixel-*.convertagain.net^
 ||collector.xhamster*.
+||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
+||iad-*.braze.com^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||bj*.9669.cn^
@@ -608,6 +612,7 @@ analytics-*.aasaam.com
 ||ulog*.*^
 ||api*.amplitude.com^
 ||app-analytics-*.snapchat.com^
+||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
 ||p26.gejulm*.com^
 ||adservice.google.*^
@@ -638,7 +643,6 @@ analytics-*.aasaam.com
 ||js.*2023*.live^
 ||mobileoffers-*-download.com^
 ||zaqlovh*.xyz^
-||collect-v*.51.la^
 ||n*adserv.xyz^
 ||fls-*.amazon.com^
 ||adsfilebssdlbig.*.kugou.com^
@@ -669,20 +673,15 @@ analytics-*.aasaam.com
 ||analytics*.prezly.com^
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
-||collector*.ex.co^
 ||analytics.*.sky.com^
 ||ads*.opensubtitles.org^
+||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
-||rgfftupf.
 @@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||counter*.stat.ovh^
-||centent.streamp1ay.
-||ads.livetv*.me^
-||142.91.159.
-||fxhpaoxqyajvmdg.
 ||cintent.streanplay.
 Banner468x60
