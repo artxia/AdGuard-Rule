@@ -1,4 +1,4 @@
-# Update time: 2024-11-21 20:17:34
+# Update time: 2024-11-22 08:45:15
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -143,7 +143,6 @@ advertisers.js|
 ||uc*.atobo.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
-||bdlm*.hc360.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||fpb*.51edu.com^
@@ -268,7 +267,6 @@ analytics-*.aasaam.com
 ||log*.byteoversea.com^
 ||mon*-misc-lf.fqnovel.com^
 ||logs*.smithsonian.museum^
-||cs*.mp3bars.com^
 ||bar*.shinobi.jp^
 ||counter*.freecounter.ovh^
 ||tracking-v*.a.run.app^
@@ -307,10 +305,8 @@ analytics-*.aasaam.com
 ||analytics.ahrefs.
 ||s*.adduplex.com^
 ||mon*-platform-*.tiktokv.com^
-||collector-*.tvsquared.com^
 ||adserver1.
 ||log-*.previewnetworks.com^
-||counter*-yadro*-ru.unblocked.lol^
 ||backstory.ebay.
 ||adx-*.dbankcloud.
 ||pop-parad.
@@ -417,7 +413,6 @@ analytics-*.aasaam.com
 ||log-*.zadn.vn^
 ||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
-||collect-v*.51.la^
 ||q*-publick.club^
 ||logger-*.dailymotion.com^
 ||iad-*.appboy.com^
@@ -442,7 +437,6 @@ analytics-*.aasaam.com
 ||poptraf.
 ||v*.sitecounter.site^
 ||iad-*.braze.com^
-||ifengad.*.ifeng.com^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||bj*.9669.cn^
@@ -615,6 +609,7 @@ analytics-*.aasaam.com
 ||adcs-*.myappsget.com^
 ||ads*.textra.me^
 ||aj2*.online^
+||cs*.mp3bars.com^
 ||zazgiyoh*.xyz^
 ||zcchyw*.xyz^
 ||log*-misc-lq.amemv.com^
@@ -622,6 +617,7 @@ analytics-*.aasaam.com
 ||ulog*.*^
 ||api*.amplitude.com^
 ||app-analytics-*.snapchat.com^
+||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
 ||p26.gejulm*.com^
 ||adservice.google.*^
@@ -652,9 +648,11 @@ analytics-*.aasaam.com
 ||js.*2023*.live^
 ||mobileoffers-*-download.com^
 ||zaqlovh*.xyz^
+||collect-v*.51.la^
 ||n*adserv.xyz^
 ||fls-*.amazon.com^
 ||adsfilebssdlbig.*.kugou.com^
+||bdlm*.hc360.com^
 ||ad*.nexage.com^
 ||aj1*.xyz^
 ||analytics*.carambo.la^
@@ -663,6 +661,8 @@ analytics-*.aasaam.com
 ||aan.amazon.*^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
+||collector-*.tvsquared.com^
+||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
 ||gtlpa*.com^
 ||auth-*.hismarttv.com^
