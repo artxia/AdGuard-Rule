@@ -1,4 +1,4 @@
-# Update time: 2024-12-21 20:14:47
+# Update time: 2024-12-22 08:47:11
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -133,8 +133,8 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
-<head>
 <body>
+<head>
 <!doctype html>
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
@@ -175,13 +175,13 @@ h1 {
                 arguments.push(this[possibleArguments[i]]);
         }
 };
+			Buy this domain. | More domains at Seo.Domains
                 }
                 console.log(JSON.parse(xhr.responseText))
 <style>
             2024 Copyright.  All Rights Reserved.
         ];
     Privacy Policy
-			Buy this domain.
     }
                     return;
     };
