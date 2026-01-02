@@ -1,4 +1,4 @@
-# Update time: 2026-01-02 08:56:07
+# Update time: 2026-01-02 20:21:18
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -142,7 +142,6 @@ advertisers.js|
 ||uc*.atobo.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
-||bdlm*.hc360.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||fpb*.51edu.com^
@@ -492,7 +491,7 @@ advertisers.js|
 ||js.*2023*.live^
 ||collect-v*.51.la^
 ||logger-*.dailymotion.com^
-||iad-*.appboy.com^
+||bdlm*.hc360.com^
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
@@ -695,6 +694,7 @@ analytics-*.aasaam.com
 ||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
 ||q*-publick.club^
+||iad-*.appboy.com^
 ||minitds-*.info^
 ||jtbo*.nqxvevk.cn^
 ||polaris*-normal-*.zijieapi.com^
