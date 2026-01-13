@@ -1,4 +1,4 @@
-# Update time: 2026-01-12 20:24:43
+# Update time: 2026-01-13 08:52:02
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -64,7 +64,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -97,6 +96,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -365,8 +365,8 @@ advertisers.js|
 ||eum*.instana.io^
 ||report.*.gbqofs.io^
 ||ads*-normal-lq.zijieapi.com^
-||tnc16-*.byteoversea.com^
 ||fads*s.com^
+||tracking.geo.*.amazonaws.com^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||collector-*.protechts.net^
 ||attr-logs.*.amazonaws.com^
@@ -468,6 +468,7 @@ advertisers.js|
 ||api*.batmobi.net^
 ||applog*.matrix.easebar.com^
 ||hstats*.hepsiburada.com^
+||cza*.crazygames.com^
 ||tnc-va*.capcutapi.com^
 ||zabdybod*.club^
 ||ads*.depositfiles.org^
@@ -724,6 +725,7 @@ analytics-*.aasaam.com
 ||poptraf.
 ||v*.sitecounter.site^
 ||touch.yesim.
+||tnc16-*.byteoversea.com^
 ||ads*.opensubtitles.org^
 ||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
