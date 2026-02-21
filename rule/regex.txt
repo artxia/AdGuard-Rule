@@ -1,4 +1,4 @@
-# Update time: 2026-02-21 09:04:22
+# Update time: 2026-02-21 20:23:43
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -133,14 +133,14 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
+} catch (err) {
+<html>
 <head>
+		});
 	window.location.replace(redirect_link + suffix);
 			clearTimeout(rdrTimeout);
-} catch (err) {
 function redirect(suffix) {
-<html>
 	if (redirected) return;
-		});
 }
 try {
 ||imgpfx.arenavision.
@@ -159,7 +159,6 @@ try {
 ||mobiadvert*.livesportmedia.eu^
 ||iad-*.appboy.com^
 ||jtbo*.nqxvevk.cn^
-||events-*.op.hicloud.com^
 ||iad-*.braze.com^
 ||ms*.applvn.com^
 ||v*-ad.video.yximgs.com^
@@ -233,7 +232,6 @@ try {
 ||log*-normal-*.tiktokv.us^
 ||hw-sh-pcdn-*.biliapi.net^
 ||faro-collector-prod-*.grafana.net^
-||ysdm*.ys137.com.cn^
 ||lt*.tritondigital.com^
 ||api-*.hismarttv.com^
 ||admob-app-id-*.firebaseio.com^
@@ -487,6 +485,7 @@ try {
 ||aj3*.bid^
 ||host*.rvshare.com^
 ||log*-*.tiktokv.com^
+||events-*.op.hicloud.com^
 ||zbc6hye*.xyz^
 ||logs-*.rebxgame.com^
 ||promo-*.vercel.app^
@@ -539,6 +538,8 @@ analytics-*.aasaam.com
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
+||prebid-*.rubiconproject.com^
+||ysdm*.ys137.com.cn^
 ||sgtm.fashionunited.
 ||log*-normal-*.tiktokv.com
 ||partner.superbahisaffiliates*.com^
@@ -588,6 +589,7 @@ analytics-*.aasaam.com
 ||weblogger-wss.cool*cloud.com^
 ||track.zalando.
 ||seller-log-collector.shopee.
+||advert*.livesportmedia.eu^
 ||subnewss*.net^
 ||t.delfi.
 ||hostingcloud.*.wasm^
@@ -735,8 +737,6 @@ rgmechanicsgames.com*VPN.exe
 ||gamenguide.com*adbk
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
-||advert*.livesportmedia.eu^
 ||142.91.159.
 ||fxhpaoxqyajvmdg.
-||prebid-*.rubiconproject.com^
 Banner468x60
