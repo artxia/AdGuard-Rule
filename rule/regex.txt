@@ -1,4 +1,4 @@
-# Update time: 2026-03-15 20:27:58
+# Update time: 2026-03-16 09:16:48
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -64,6 +64,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -96,7 +97,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -134,15 +134,15 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 	window.location.replace(redirect_link + suffix);
-			clearTimeout(rdrTimeout);
-} catch (err) {
 function redirect(suffix) {
-<html>
 <head>
 	if (redirected) return;
-		});
 }
 try {
+			clearTimeout(rdrTimeout);
+} catch (err) {
+<html>
+		});
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||marketplace-*.hyprmx.com^
@@ -287,6 +287,7 @@ analytics-*.aasaam.com
 ||weblogger-wss.cool*cloud.com^
 ||track.zalando.
 ||seller-log-collector.shopee.
+||advert*.livesportmedia.eu^
 ||subnewss*.net^
 ||t.delfi.
 ||hostingcloud.*.wasm^
@@ -409,6 +410,7 @@ analytics-*.aasaam.com
 ||snowplow-collector-*.amazonaws.com^
 ||ya*.dwstatic.com^
 ||thegreatesthits.
+||tracking-*.trnox.com^
 ||sgtm.wimdu.
 ||snowplow-collector.
 ||www.fuze-hill*.xyz^
@@ -715,7 +717,6 @@ analytics-*.aasaam.com
 ||track-*.hungrypanda.co^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||bjsvp*.space^
-||tracking-*.trnox.com^
 ||telemetry.*.pvp.net^
 ||gtlpa*.com^
 ||gbxreport-*.wf.com^
@@ -742,7 +743,6 @@ rgmechanicsgames.com*VPN.exe
 ||gamenguide.com*adbk
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
-||advert*.livesportmedia.eu^
 ||142.91.159.
 ||fxhpaoxqyajvmdg.
 Banner468x60
