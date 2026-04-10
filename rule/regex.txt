@@ -1,4 +1,4 @@
-# Update time: 2026-04-10 09:19:54
+# Update time: 2026-04-10 20:43:09
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -137,12 +137,12 @@ advertisers.js|
 			clearTimeout(rdrTimeout);
 } catch (err) {
 function redirect(suffix) {
+<html>
 <head>
 	if (redirected) return;
 		});
 }
 try {
-<html>
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||marketplace-*.hyprmx.com^
@@ -151,7 +151,6 @@ try {
 ||mediate-ios-*.hyprmx.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||us.*.qwadro.com^
-||creative*.bidease.com^
 ||mob*.novanewsapp.com^
 ||tnc16-*.byteoversea.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
@@ -279,6 +278,7 @@ analytics-*.aasaam.com
 ||log-collector.shopee.
 ||ad*.tmgrup.com.tr^
 ||goodadvert.
+||log.api-maps.yandex.
 ||rb*.design.ru^
 ||107.167.16.*.gif
 ||logs*.smithsonian.museum^
@@ -409,6 +409,7 @@ analytics-*.aasaam.com
 |a.klaviyo.com^
 ||ad.*.doubleclick.net^
 ||snowplow-collector-*.amazonaws.com^
+||ya*.dwstatic.com^
 ||thegreatesthits.
 ||sgtm.wimdu.
 ||snowplow-collector.
@@ -590,6 +591,7 @@ analytics-*.aasaam.com
 ||logreport-global-dual.cool*cloud.com^
 ||clog*.yuanfudao.com^
 ||htm*.hepsiburada.com^
+||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
@@ -717,7 +719,6 @@ analytics-*.aasaam.com
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
-||ya*.dwstatic.com^
 ||track-*.hungrypanda.co^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||bjsvp*.space^
