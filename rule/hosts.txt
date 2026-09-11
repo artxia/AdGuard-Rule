@@ -1,4 +1,4 @@
-# Update time: 2026-09-10 23:25:01
+# Update time: 2026-09-11 09:55:06
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -13450,6 +13450,7 @@
 0.0.0.0 js.tongji.linezing.com
 0.0.0.0 www.trourted.pro
 0.0.0.0 online-pharmacy-online.blogspot.com
+0.0.0.0 www.mdarussellhobbs.com
 0.0.0.0 heshun.com.tw
 0.0.0.0 ads.cardea.se
 0.0.0.0 www.waterchalk.com
