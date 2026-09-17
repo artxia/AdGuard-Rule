@@ -1,4 +1,4 @@
-# Update time: 2026-09-17 10:14:57
+# Update time: 2026-09-17 23:49:30
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -55,7 +55,6 @@
 ||avito.avito.avito.
 ||yandex.pay.avito.
 ||report.*.qq.com^
-||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -75,6 +74,7 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+||onetrust.
 ||adx.
 ||adx-
 ||adsfs.
@@ -135,11 +135,27 @@ advertisers.js|
 ||ap*.pl520.com^
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
+||marketplace-*.hyprmx.com^
+||adx-*.dbankcloud.
+||prebid-cache*.ifunny.co^
+||mediate-ios-*.hyprmx.com^
+||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||us.*.qwadro.com^
-||iad-*.braze.com^
-||ifengad.*.ifeng.com^
+||creative*.bidease.com^
+||mob*.novanewsapp.com^
 ||tnc16-*.byteoversea.com^
+||rtbimp-loadbalancer-*.amazonaws.com^
+||production-adserver-*.amazonaws.com^
 ||get*bannerads-6egeg2u34q-du.a.run.app^
+||mobiadvert*.livesportmedia.eu^
+||iad-*.appboy.com^
+||jtbo*.nqxvevk.cn^
+||events-*.op.hicloud.com^
+||iad-*.braze.com^
+||ms*.applvn.com^
+||ifengad.*.ifeng.com^
+||v*-ad.video.yximgs.com^
+||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
 ||da.hornbach.*^
 ||dm-*.toutiao.com^
 ||adsystem*.*^
@@ -370,7 +386,6 @@ advertisers.js|
 ||logreport-global-dual.cool*cloud.com^
 ||clog*.yuanfudao.com^
 ||htm*.hepsiburada.com^
-||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||fanpingbi*.gaokao.com^
@@ -544,8 +559,6 @@ analytics-*.aasaam.com
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
-||prebid-*.rubiconproject.com^
-||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
 ||sgtm.fashionunited.
 ||log*-normal-*.tiktokv.com
 ||partner.superbahisaffiliates*.com^
@@ -581,7 +594,6 @@ analytics-*.aasaam.com
 ||pangolin*.sgsnssdk.com^
 ||block.s*block.com^
 ||sgtm.fairmont.
-||marketplace-*.hyprmx.com^
 ||analytics.streamfab.
 ||log-collector.shopee.
 ||ad*.tmgrup.com.tr^
@@ -606,7 +618,6 @@ analytics-*.aasaam.com
 ||rusrestbest.
 ||v.newsportal*.ru^
 ||get-me-wow.
-||mob*.novanewsapp.com^
 ||ubt.tracking.shopee.
 ||as*.prog.hu^
 ||cnt.tubeon.
@@ -622,7 +633,6 @@ analytics-*.aasaam.com
 ||dw-informer-*.newsru.com^
 |piwik.
 ||letssex.
-||production-adserver-*.amazonaws.com^
 ||ad-host-backup-*.aliyuncs.com^
 ||cl*.k5a.io^
 ||analytics.ahrefs.
@@ -634,10 +644,7 @@ analytics-*.aasaam.com
 ||countly-
 ||countly.
 ||backstory.ebay.
-||adx-*.dbankcloud.
 ||pop-parad.
-||mediate-ios-*.hyprmx.com^
-||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||mediacontext.
 ||videoclick.
 ||broredir*s.site^
@@ -654,7 +661,6 @@ analytics-*.aasaam.com
 ||analytics-api.dvdfab.
 ||xlog*-*.tiktokv.com^
 ||ad*.on.cc^
-||v*-ad.video.yximgs.com^
 ||bondzgi*.
 ||etargetnet.*.hu^
 ||rum*.cdnvideo.ru^
@@ -662,7 +668,6 @@ analytics-*.aasaam.com
 ||mssdk*.zijieapi.com^
 ||adservice.google.co.*
 ||u*.takru.com^
-||rtbimp-loadbalancer-*.amazonaws.com^
 ||www.fuze-sea*.xyz^
 ||metrics*.fitanalytics.com^
 ||edgetrksvc.ebay.
@@ -706,32 +711,25 @@ analytics-*.aasaam.com
 ||px*.mediahills.ru^
 ||rotaban.
 ||tw-726620180914.*.run.app^
-||prebid-cache*.ifunny.co^
 ||analytics.vgtimes.
 ||cnt.proporn.
 ||popuptraf.
-||events-*.op.hicloud.com^
 ||vst.videolink.
 |load.gtm.
 ||stats*.videonow.ru^
 ||pixel.archive.
-||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
 ||q*-publick.club^
-||iad-*.appboy.com^
 ||minitds-*.info^
-||jtbo*.nqxvevk.cn^
 ||polaris*-normal-*.zijieapi.com^
 |a.klaviyo.com^
 ||ad.*.doubleclick.net^
 ||snowplow-collector-*.amazonaws.com^
-||ms*.applvn.com^
 ||thegreatesthits.
 ||sgtm.wimdu.
 ||snowplow-collector.
 ||www.fuze-hill*.xyz^
 ||parkdomainreal*.site^
-||mobiadvert*.livesportmedia.eu^
 ||popunder.
 ||livetracker.*.pangea-cms.com^
 ||stat.tiara.
@@ -742,15 +740,17 @@ analytics-*.aasaam.com
 ||poptraf.
 ||v*.sitecounter.site^
 ||touch.yesim.
+||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
-||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
-||158.247.208.
 ||23.109.82.
-||142.91.159.
-|167.206.10.148^
 ||fapnado.*.php|
-||23.109.87.
 ||itechpost.com*adbk
 @@||cdn*.porn300.com^
+||gamenguide.com*adbk
+||158.247.208.
+||142.91.159.
+|167.206.10.148^
+||23.109.87.
+||prebid-*.rubiconproject.com^
 Banner468x60
