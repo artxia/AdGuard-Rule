@@ -1,4 +1,4 @@
-# Update time: 2026-09-18 23:22:41
+# Update time: 2026-09-19 10:05:47
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -7018,6 +7018,7 @@
 0.0.0.0 otpercpiheno.hu
 0.0.0.0 www.learntechno.com
 0.0.0.0 www.aaringtone.com
+0.0.0.0 www.mcclartyauto.com
 0.0.0.0 adin.bigpoint.com
 0.0.0.0 showcount.honest.com
 0.0.0.0 najlepszedlaciebie.com
@@ -8221,6 +8222,7 @@
 0.0.0.0 cnetnews.112.2o7.net
 0.0.0.0 quantcast584928381.s.moatpixel.com
 0.0.0.0 www.fastcounter.linkexchange.nl
+0.0.0.0 www.classeroom.com
 0.0.0.0 metric.nationalgeographic.com
 0.0.0.0 ads.trutv.com
 0.0.0.0 hostdomainpeople.112.2o7.net
@@ -9508,6 +9510,7 @@
 0.0.0.0 fuzzy-afternoon.surge.sh
 0.0.0.0 sanbuzs.com
 0.0.0.0 www.cydoor.com
+0.0.0.0 www.yottacash.com
 0.0.0.0 newandroidapps.net
 0.0.0.0 n7.nskfyl.com
 0.0.0.0 meatspin.com
