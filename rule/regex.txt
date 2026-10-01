@@ -1,4 +1,4 @@
-# Update time: 2026-10-01 10:56:41
+# Update time: 2026-10-02 01:39:49
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -55,6 +55,7 @@
 ||avito.avito.avito.
 ||yandex.pay.avito.
 ||report.*.qq.com^
+||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -74,7 +75,6 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||onetrust.
 ||adx.
 ||adx-
 ||adsfs.
@@ -243,6 +243,7 @@ advertisers.js|
 ||stat.*.v-56.com^
 ||tupian888.*.bcebos.com^
 ||metric*.rediff.com^
+||faro-collector-*.grafana-ops.net^
 ||xy-*pcdn.msstatic.com^
 ||impservice*.yodao.com^
 ||js.*2023*.xyz^
@@ -583,7 +584,6 @@ analytics-*.aasaam.com
 ||tracking-v*.a.run.app^
 ||weblogger-wss.cool*cloud.com^
 ||seller-log-collector.shopee.
-||advert*.livesportmedia.eu^
 ||t.delfi.
 ||device-metrics-*.amazon.com^
 ||v.newsportal*.ru^
@@ -751,6 +751,7 @@ rgmechanicsgames.com*VPN.exe
 ||counter*.stat.ovh^
 ||158.247.208.
 ||ads.livetv*.me^
+||advert*.livesportmedia.eu^
 ||142.91.159.
 |167.206.10.148^
 ||23.109.87.
