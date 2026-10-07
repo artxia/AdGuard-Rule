@@ -1,4 +1,4 @@
-# Update time: 2026-10-07 11:09:32
+# Update time: 2026-10-08 02:04:51
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -133,13 +133,9 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
-||entry-verifed-cdn.
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
-||us.*.qwadro.com^
-||iad-*.braze.com^
-||ifengad.*.ifeng.com^
-||get*bannerads-6egeg2u34q-du.a.run.app^
+||entry-verifed-cdn.
 ||da.hornbach.*^
 ||dm-*.toutiao.com^
 ||adsystem*.*^
@@ -200,6 +196,7 @@ advertisers.js|
 ||qchannel*.cn^
 ||tracker*.qcloud.com^
 ||adwords*.*^
+||us.*.qwadro.com^
 ||pangolin-sdk-toutiao*.com^
 ||collector-*.luigisbox.com^
 ||ping*.qq.com^
@@ -214,6 +211,7 @@ advertisers.js|
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zazgbqg*.xyz^
+||get*bannerads-6egeg2u34q-du.a.run.app^
 ||stats2.*.fdnames.com^
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
@@ -263,6 +261,7 @@ advertisers.js|
 ||ulog*.*^
 ||mcdp-*.outbrain.com^
 ||prod.*.analytics.console.aws.a2z.com^
+||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
 ||matomo.*.vn^
 ||p26.gejulm*.com^
@@ -303,6 +302,7 @@ advertisers.js|
 ||chat*-ce.chatdealer.jp^
 ||util-*.simply-hentai.com^
 ||collector-*.px-cloud.net^
+||iad-*.braze.com^
 ||bjsvp*.space^
 ||log-*.previewnetworks.com^
 ||mads*z.com^
@@ -583,6 +583,7 @@ analytics-*.aasaam.com
 ||tracking-v*.a.run.app^
 ||weblogger-wss.cool*cloud.com^
 ||seller-log-collector.shopee.
+||advert*.livesportmedia.eu^
 ||t.delfi.
 ||device-metrics-*.amazon.com^
 ||v.newsportal*.ru^
@@ -749,7 +750,6 @@ rgmechanicsgames.com*VPN.exe
 ||counter*.stat.ovh^
 ||158.247.208.
 ||ads.livetv*.me^
-||advert*.livesportmedia.eu^
 ||142.91.159.
 |167.206.10.148^
 ||rtb-*.anysex.com^
