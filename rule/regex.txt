@@ -1,4 +1,4 @@
-# Update time: 2026-10-24 00:03:44
+# Update time: 2026-10-24 10:21:50
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -55,27 +55,33 @@
 ||avito.avito.avito.
 ||yandex.pay.avito.
 ||report.*.qq.com^
-||onetrust.
+||allyes.
 ||icast.
 ||gg.
 ||union.
+||ad.
 ||ads.
 ||cnzz.
+||adsfile.
+||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
+||adsense.
 ||xmindchina.
+||ggg.
 ||admaster.
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+||onetrust.
 ||adx.
 ||adx-
 ||adsfs.
 ||adsdk.
 MRelateFeedAd
 ||adsmind.
-||adsfile.
 ||bigdata.
 ||sell*.etlong.com^
 ||smartads.
@@ -85,15 +91,12 @@ MRelateFeedAd
 ||adstats.
 ||toujing*.top^
 ||popup.*.js*
-||ggg.
 ||advert.
 ||irs01.
 ||advert-
-||allyes.
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -109,18 +112,15 @@ getAds|
 ||appjiagu.
 ||img.piaosugo.com*.jpg
 ||adsmis.
-||adserver.
 ||sense-*.tapdb.net^
 ||pc.min.js*
 ||minero-proxy-*now.sh
 ||pagead2.
 ||guangyaoli.
-||adsense.
 ||ading.
 ||googleads.
 ||umengacs.
 ||ads-
-||ad.
 piao.js|
 oHead6205.appendChild( oScript6205);
 ||ad-
@@ -133,9 +133,13 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
+||entry-verifed-cdn.
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
-||entry-verifed-cdn.
+||us.*.qwadro.com^
+||iad-*.braze.com^
+||ifengad.*.ifeng.com^
+||get*bannerads-6egeg2u34q-du.a.run.app^
 ||da.hornbach.*^
 ||dm-*.toutiao.com^
 ||adsystem*.*^
@@ -196,8 +200,6 @@ advertisers.js|
 ||qchannel*.cn^
 ||tracker*.qcloud.com^
 ||adwords*.*^
-||us.*.qwadro.com^
-||iad-*.braze.com^
 ||pangolin-sdk-toutiao*.com^
 ||collector-*.luigisbox.com^
 ||ping*.qq.com^
@@ -208,12 +210,10 @@ advertisers.js|
 ||w*.*skwai.com^
 ||ads*.dfiles.ru^
 ||stun.*.kugou.com^
-||admob-app-id-*.firebaseio.com^
 ||qn-*pcdn.cdn.huya.com^
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zazgbqg*.xyz^
-||get*bannerads-6egeg2u34q-du.a.run.app^
 ||stats2.*.fdnames.com^
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
@@ -261,8 +261,6 @@ advertisers.js|
 ||mcdp-*.outbrain.com^
 ||prod.*.analytics.console.aws.a2z.com^
 ||analytics.*.adjust.com^
-||a*.smlog.co.kr^
-||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
 ||matomo.*.vn^
 ||p26.gejulm*.com^
@@ -339,6 +337,7 @@ analytics-*.aasaam.com
 ||lt*.tritondigital.com^
 ||log*-normal-*.tiktokv.com
 ||eflbundles.*.com.tr^
+||admob-app-id-*.firebaseio.com^
 ||datacollect*.abtasty.com^
 ||v.tzbox*.xyz^
 ||rotabanner.
@@ -387,6 +386,7 @@ analytics-*.aasaam.com
 ||ads*.textra.me^
 ||ecommerce-events*.adscale.com^
 ||counter*.freecounter.ovh^
+||a*.smlog.co.kr^
 ||track.zalando.
 ||mcs-*.tiktok.com^
 ||subnewss*.net^
