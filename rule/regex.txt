@@ -1,4 +1,4 @@
-# Update time: 2026-11-25 13:57:43
+# Update time: 2026-11-26 04:48:09
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -210,6 +210,7 @@ advertisers.js|
 ||w*.*skwai.com^
 ||ads*.dfiles.ru^
 ||stun.*.kugou.com^
+||admob-app-id-*.firebaseio.com^
 ||qn-*pcdn.cdn.huya.com^
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
@@ -224,6 +225,7 @@ advertisers.js|
 ||cas.*.criteo.com^
 ||n*adserv.com^
 ||zbc6hy*.live^
+||analytics*.clickdimensions.com^
 ||mobileanalytics.*.amazonaws.com^
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
@@ -234,12 +236,15 @@ advertisers.js|
 ||fads*z.com^
 ||prod.*.publishers.advertising.a2z.com^
 ||display-ad-*.kgslb.com^
+||acr-*-prd.samsungcloud.tv^
 ||ej1*.online^
 ||log-*.epicdn.me^
 ||mistat.*.xiaomi.com^
 ||stat.*.v-56.com^
+||adcounter*.uptolike.ru^
 ||tupian888.*.bcebos.com^
 ||metric*.rediff.com^
+||ad*.ettoday.net^
 ||faro-collector-*.grafana-ops.net^
 ||xy-*pcdn.msstatic.com^
 ||bapi-*.moengage.com^
@@ -321,6 +326,7 @@ advertisers.js|
 ||analytics-ad-*.kgslb.com^
 ||umami-*.sufrah.net^
 ||aj2*.bid^
+||analytics*.prezly.com^
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||union*.365inews.com^
@@ -334,10 +340,10 @@ analytics-*.aasaam.com
 ||w*statistics.info^
 ||log*-normal-*.tiktokv.us^
 ||allsportsflix.
+||prebid-*.rubiconproject.com^
 ||lt*.tritondigital.com^
 ||log*-normal-*.tiktokv.com
 ||eflbundles.*.com.tr^
-||admob-app-id-*.firebaseio.com^
 ||datacollect*.abtasty.com^
 ||v.tzbox*.xyz^
 ||rotabanner.
@@ -373,7 +379,6 @@ analytics-*.aasaam.com
 ||sgtm.fairmont.
 ||marketplace-*.hyprmx.com^
 ||tnc*.tiktokv.us^
-||ad*.ettoday.net^
 ||log-collector.shopee.
 ||report*.appmetrica.webvisor.com^
 ||goodadvert.
@@ -513,7 +518,6 @@ analytics-*.aasaam.com
 ||parkdomainreal*.site^
 ||mobiadvert*.livesportmedia.eu^
 ||livetracker.*.pangea-cms.com^
-||analytics*.prezly.com^
 ||collector.xhamster*.
 ||poptraf.
 ||pixel*.production-public.tubi.io^
@@ -541,7 +545,6 @@ analytics-*.aasaam.com
 ||real*traf.ru^
 ||powa-ingest-prod-*.video-player.arcpublishing.com^
 ||wa.gmx.
-||analytics*.clickdimensions.com^
 ||mon*-*.tiktokv.us^
 ||kbox-analytics-prod.s*.amazonaws.com^
 ||cnt.yeptube.
@@ -670,9 +673,7 @@ analytics-*.aasaam.com
 ||web-visor.
 ||1024wanzhai.
 ||api*.batmobil.net^
-||acr-*-prd.samsungcloud.tv^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
-||adcounter*.uptolike.ru^
 ||stats.mapple.*^
 ||cdn*.swaxis.com^
 ||adimg*.search.naver.net^
@@ -748,5 +749,4 @@ rgmechanicsgames.com*VPN.exe
 |167.206.10.148^
 ||23.109.87.
 ||fxhpaoxqyajvmdg.
-||prebid-*.rubiconproject.com^
 Banner468x60
