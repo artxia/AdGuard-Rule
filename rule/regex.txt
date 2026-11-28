@@ -1,4 +1,4 @@
-# Update time: 2026-11-28 13:23:55
+# Update time: 2026-11-29 03:15:35
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -64,6 +64,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -96,7 +97,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -133,9 +133,9 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
-||entry-verifed-cdn.
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
+||entry-verifed-cdn.
 ||da.hornbach.*^
 ||dm-*.toutiao.com^
 ||adsystem*.*^
@@ -197,7 +197,6 @@ advertisers.js|
 ||tracker*.qcloud.com^
 ||adwords*.*^
 ||us.*.qwadro.com^
-||iad-*.braze.com^
 ||pangolin-sdk-toutiao*.com^
 ||collector-*.luigisbox.com^
 ||ping*.qq.com^
@@ -301,6 +300,7 @@ advertisers.js|
 ||chat*-ce.chatdealer.jp^
 ||util-*.simply-hentai.com^
 ||collector-*.px-cloud.net^
+||iad-*.braze.com^
 ||bjsvp*.space^
 ||log-*.previewnetworks.com^
 ||mads*z.com^
